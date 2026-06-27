@@ -1,6 +1,6 @@
 print("hello AI world")
 print("python 3.11.4 is running perfectly\n\n")
-
+print("it is as good as u")
 
 import sys
 print(f"\nPython version: {sys.version.split()[0]}")
